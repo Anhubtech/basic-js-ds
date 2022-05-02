@@ -18,7 +18,7 @@ constructor (){
   this.mystack = [];
 }
 
-  push(element ) {
+  push(element) {
    return this.mystack.push(element)
   }
 
